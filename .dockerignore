@@ -3,4 +3,6 @@
 .dockerignore
 Dockerfile
 docker-compose.yml
-
+certs/
+default.conf
+deploy.sh
